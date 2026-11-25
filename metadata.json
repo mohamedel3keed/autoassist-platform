@@ -1,0 +1,6 @@
+{
+  "name": "MotorMate — Smart Automotive Assistance Platform",
+  "description": "Bilingual smart automotive assistance prototype connecting car owners, workshops, service centers, spare parts shops, AI diagnostics, and simulated OBD-II telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
